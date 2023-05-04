@@ -1,50 +1,34 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm Oscar Terceros, better known as Oz a software developer enthusiast from La Paz, Bolivia.
+I'm **Oscar Terceros**, a passionate ***Full-stack JavaScript Developer*** with a strong interest in technology and programming from La Paz, Bolivia.
+
+</br>
 
 ---
+</br>
 
-### About
+## 👨‍💻 About me:
 
 ``` javascript
 const oz = () => ({
-  me: [ "family-man", "engineer", "javascript-developer"],
-  code: [ "javascript", "html", "css", "react", "c-sharp", "sql", "bash", "batch" ],
-  tools: [ "visual-studio-code", "github", "github-actions", "gulp", "jenkins", "gimp", "sonar-qube" ],
+  
+  me: [ "systems engineer", "javascript-developer"],
+  code: [ "html", "css", "javascript", "typescript", "react", "c-sharp", "sql" ],
+  tools: [ "visual-studio-code", "git", "github", "github-actions", "figma",  "photoshop" ],
   os: [ "windows", "ubuntu" ],
-  worked: [ "apache-cordova", "jquery", "bootstrap", "ext-net", "razor", "sql-server", "mysql", "excel-vba"],
-  learning: [ "english", "react", "jest", "unit-testing" ]
+  worked: [ "react", "node", "express", "bootstrap", "sass", "sql-server", "mysql", "postgresql" ],
+  learning: [ "english", "react query", "unit-testing" ]
+
+  return "Wonderful products of the highest quality";
+
 })
 ```
+</br>
+
 ---
-### Get in touch
-<p>
-<a href="https://www.linkedin.com/in/oscar-terceros-b04074136/">
 
-  ![Linkedin URL](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Foscar-terceros-b04074136%2F)
+## 📧 Connect with me:
+</br>
 
-</a>
-
-<a href="https://twitter.com/Ozterce">
-
-  ![Twitter URL](https://img.shields.io/twitter/url?label=Folow%20me%20on%20Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FOzterce)
-
-</a>
-</p>
-
-
-
-<!--
-**OscarTerceros/OscarTerceros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter Badge](https://img.shields.io/badge/-@ozterce-gray?style=flat&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/ozterce)](https://twitter.com/ozterce)
+[![LinkedIn Badge](https://img.shields.io/badge/-@ozterce-gray?style=flat&labelColor=0077B5&logo=linkedin&logoColor=white&link=https://linkedin.com/in/oscar-terceros-b04074136)](https://linkedin.com/in/oscar-terceros-b04074136)
