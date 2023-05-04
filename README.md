@@ -2,10 +2,7 @@
 
 I'm **Oscar Terceros**, a passionate ***Full-stack JavaScript Developer*** with a strong interest in technology and programming from La Paz, Bolivia.
 
-</br>
-
 ---
-</br>
 
 ## 👨‍💻 About me:
 
